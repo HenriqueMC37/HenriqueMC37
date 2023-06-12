@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My Name is Henrique Martins da Cunha
+
+### I am an Aspiring Software Engineer and am open to work!
+
+## 📫 How to reach me:
+### LinkedIn: https://www.linkedin.com/in/henrique-martins-da-cunha/
+### Email: henriquemc37@gmail.com
 
 <!--
 **HenriqueMC37/HenriqueMC37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
