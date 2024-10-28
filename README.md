@@ -1,6 +1,6 @@
 # Hi there 👋 My Name is Henrique Martins da Cunha
 
-## I am an Aspiring Software Engineer and am open to work!
+## I am an Software Engineer with focus on Java and SpringBoot.
 
 ## 📫 How to reach me:
 ### LinkedIn: https://www.linkedin.com/in/henrique-martins-da-cunha/
